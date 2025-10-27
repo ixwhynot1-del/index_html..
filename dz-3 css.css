@@ -1,0 +1,26 @@
+h1{
+                text-align: center;
+                color: rgb(4, 106, 109);
+            }
+            p{
+                text-align: center;
+                color: rgb(105, 0, 21);
+                font-size: xx-large;
+            }
+            h2{
+                text-align: center;
+                color: brown;
+            }
+            ol{
+                text-align: center;
+                color: chocolate;
+                font-size: larger;
+            }
+            h3{
+                text-align: center;
+                color: darkred;
+            }
+        
+            body{
+                background-color: khaki;
+            }
